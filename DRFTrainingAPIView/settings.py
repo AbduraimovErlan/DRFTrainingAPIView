@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     'APIView5',
     'APIView6',
     'APIView7',
+    'APIView8',
 ]
 
 MIDDLEWARE = [
